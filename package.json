@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://hive-url-shortener.onrender.com:10000"
+  "proxy": "https://hive-url-shortener.onrender.com"
 }
