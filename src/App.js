@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.mainTitle}>LinkBee</h1> {/* Added main title above the card */}
+      <h1 style={styles.mainTitle}>LinkHive</h1> {/* Added main title above the card */}
       <div style={styles.card}>
         <h2 style={styles.title}>URL Shortener</h2>
         <form onSubmit={handleSubmit} style={styles.form}>
